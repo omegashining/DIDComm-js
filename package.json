@@ -48,5 +48,8 @@
   },
   "overrides": {                                                                                                                                                                                                  
     "typescript": "3.9.10"                                                                                                                                                                                        
+  },
+  "resolutions": {                                                                                                                                                                                                
+    "typescript": "3.9.10"                                                                                                                                                                                        
   }
 }
